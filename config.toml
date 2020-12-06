@@ -1,0 +1,4 @@
+baseURL = "https://abelazo.github.io/blog"
+languageCode = "en-us"
+title = "Abelazo's Blog"
+theme = "ananke"
